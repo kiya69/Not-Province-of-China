@@ -35,7 +35,7 @@ FAPA的經驗
 發起人/拋磚人：
 分工與成員
 NeedsWriter: 需要文案幫手（撰寫基本資訊、報導專案etc）
-NeedsDesigner: 需要介面設計
+NeedsDesigner: 需要介面設計 Mockup: https://g0vus.mybalsamiq.com/projects/prc/prototype/home?key=70bd51fb29eff84529e3304b9c0eab6c8c966799
 NeedsData: 需要資料（擷取、清理）
 NeedsTech: 需要技術支援（程式、架站 etc)
 NeedsProcess: 需要幫忙設計作業流程
